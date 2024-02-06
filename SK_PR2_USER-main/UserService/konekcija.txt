@@ -1,0 +1,5 @@
+host: zix.h.filess.io
+database: projekat2_collectdid
+user: projekat2_collectdid
+port: 3307
+pass: 12345678
